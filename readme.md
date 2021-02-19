@@ -1,5 +1,5 @@
 # I'm Gav06
-![](https://counter.gofiber.io/badge/gav06/gav06)
+<img src="https://komarev.com/ghpvc/?username=gav06&style=flat-square" alt="View Counter"/>
 
 I like java, and i like making minecraft-related java projects
 
