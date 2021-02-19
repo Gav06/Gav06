@@ -1,7 +1,7 @@
 # I'm Gav06
 <img src="https://komarev.com/ghpvc/?username=gav06&style=flat-square" alt="View Counter"/>
 
-I like java, and i like making minecraft-related java projects
+I like java, and i am currenty messing around in kotlin
 
 I am mainly learning how to code minecraft clients
 
