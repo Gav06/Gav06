@@ -1,4 +1,4 @@
-# I'm Gav06
+# I'm Gavin
 <img src="https://komarev.com/ghpvc/?username=gav06&style=flat-square" alt="View Counter"/>
 
 I like java, and i am currenty messing around in kotlin
