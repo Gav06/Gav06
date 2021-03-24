@@ -1,9 +1,7 @@
 # I'm Gavin
 <img src="https://komarev.com/ghpvc/?username=gav06&style=flat-square" alt="View Counter"/>
 
-Learning how to be java pro
-
-working on minecraft "utility mods"
+Learning how to be a java pro, mainly through minecraft modding
 
 current projects:
 
