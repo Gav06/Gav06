@@ -8,4 +8,4 @@ current projects:
 - Gavhack ~ 1.12.2 forge cheat for anarchy servers
 - Opcode ~ 1.16.5 fabric "utility" mod for 2b2t
 
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gav06&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[Overview](https://raw.githubusercontent.com/Gav06/github-stats/master/generated/overview.svg) [Top langs](https://raw.githubusercontent.com/Gav06/github-stats/master/generated/languages.svg)
