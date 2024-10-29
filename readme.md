@@ -1,3 +1,3 @@
 <img src="https://komarev.com/ghpvc/?username=gav06&style=flat-square" alt="View Counter"/>
 
-[![Gavin's GitHub stats](https://github-readme-stats-three-rho-34.vercel.app/api?username=Gav06)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats-three-rho-34.vercel.app/api/top-langs/?username=Gav06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-three-rho-34.vercel.app/api/top-langs/?username=Gav06&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
